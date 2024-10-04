@@ -1,0 +1,14 @@
+.saludos{
+    color: red;
+    background-color: black;
+
+}
+
+@media screen and(min-width: 800px) {
+.saludos{
+    color: blue;
+    background-color: orange;
+}
+  
+
+}

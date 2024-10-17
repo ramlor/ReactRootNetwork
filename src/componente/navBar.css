@@ -1,14 +1,9 @@
-.saludos{
-    color: red;
-    background-color: black;
+.bg-body-tertiary { 
+background-color: red !important;
 
 }
 
-@media screen and(min-width: 800px) {
-.saludos{
-    color: blue;
-    background-color: orange;
-}
-  
+
+.font-default {
 
 }
